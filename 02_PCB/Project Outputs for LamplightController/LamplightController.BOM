@@ -1,0 +1,29 @@
+Bill of Material for 
+On 28.08.2015 at 11:31:02
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 235-101             wago235-101     20    XT1, XT2, XT3, XT4, XT5, XT6 235-101 - 1-CONDUCTOR PCB TERMINAL BLOCK 2 SOLDER PINS / POLE 1 POLE PIN SPACING 3.81 MM / 0.15 IN WITH PUSH BOTTONS 
+                                           XT7, XT8, XT9, XT10, XT11
+                                           XT12, XT13, XT14, XT15, XT16
+                                           XT17, XT18, XT19, XT20
+ ATMEGA328P-AU       TQFP32           1    DD1                          ATMEL 8-BIT MICROCONTROLLER WITH 32KBYTES  IN-SYSTEM PROGRAMMABLE FLASH 2K RAM 20MHz 
+ BH-06M              BH-06M           1    P1                           BH-06M               
+ BLM21               0805_IND         1    L1                           Chip Ferrite Bead (0805 Size) BLM21PG221SH1 
+ C_0603              0603_CAP         8    C2, C3, C5, C6, C7, C8, C9   Конденсатор (0603)   
+                                           C10
+ C_1206              1206_CAP         1    C1                           Конденсатор (1206)   
+ C_caseD             case D           1    C4                           Танаталовый чип конденсатор (Case D) 
+ HC49S               HC49S            1    Y1                           Кварцевый резонатор (HC49S) 
+ L78M05ABDT-TR       DPACK            1    DA1                          Precision 500 mA regulator 5V 
+ LED_0603            0603_LED        10    LED1, LED2, LED3, LED4, LED5 Светодиод 0603       
+                                           LED6, LED7, LED8, LED9, LED10
+ MAX3443EESA         SOIC8            1    DA2                          5 V RS-485 Transceiver 
+ R_0603              0603_RES        26    R1, R2, R3, R4, R5, R6, R7   Резистор 0.1 Вт (0603) 
+                                           R8, R9, R10, R11, R12, R13
+                                           R14, R15, R16, R17, R18, R19
+                                           R20, R21, R22, R23, R24, R25
+                                           R26
+ SN74ABT244ADW       SOIC20           1    DD2                          Octal Buffers/Drivers with 3-state outputs 
+ SWD1-6              DIP_SW 12        1    SW1                          DIP-переключатель 2-х полож. 6 кн. 2.54mm 
+ US1M                SMA              1    VD1                          Диод 1А до 1000V     

@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: LamplightController.PcbDoc   27.08.2015  11:29:05
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : LamplightController.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          56               330.54 mm (13.01 Inch)
+T2        0.8mm (31.496mil)        Round          2                4.88 mm (0.19 Inch)
+T3        0.9mm (35.433mil)        Round          12               33.02 mm (1.30 Inch)
+T4        1mm (39.37mil)           Round          46               278.83 mm (10.98 Inch)
+T5        3.6mm (141.732mil)       Round          4         NPTH   148.86 mm (5.86 Inch)
+---------------------------------------------------------------------------
+Totals                                            120              796.13 mm (31.34 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

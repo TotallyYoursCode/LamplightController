@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [LamplightController.PrjPCB]
+   Generated File[LamplightController.GTL]
+   Generated File[LamplightController.GBL]
+   Generated File[LamplightController.GPB]
+   Generated File[LamplightController.GPT]
+   Generated File[LamplightController.GTO]
+   Generated File[LamplightController.GTP]
+   Generated File[LamplightController.GTS]
+   Generated File[LamplightController.GBS]
+   Generated File[LamplightController.GBP]
+   Generated File[LamplightController.GBO]
+   Generated File[LamplightController.GKO]
+   Generated File[LamplightController.RUL]
+   Generated File[LamplightController.EXTREP]
+   Generated File[LamplightController.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 11:29:20 On 27.08.2015
